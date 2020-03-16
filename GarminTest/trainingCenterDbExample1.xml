@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Running">
+            <Id>2012-04-18T17:39:02Z</Id>
+            <Lap StartTime="2012-04-18T17:39:02Z">
+                <TotalTimeSeconds>276.03000</TotalTimeSeconds>
+                <DistanceMeters>804.61000</DistanceMeters>
+                <MaximumSpeed>12.00000</MaximumSpeed>
+                <Calories>65</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Location</TriggerMethod>
+                <Track>
+                <Trackpoint>
+                    <Time>2012-04-18T17:39:03Z</Time>
+                    <Position>
+                        <LatitudeDegrees>46.850575</LatitudeDegrees>
+                        <LongitudeDegrees>-96.77945</LongitudeDegrees>
+                    </Position>
+                    <AltitudeMeters>0</AltitudeMeters>
+                    <DistanceMeters>0.00000</DistanceMeters>
+                    <SensorState>Absent</SensorState>
+                </Trackpoint>
+                <Trackpoint>
+                    <Time>2012-04-18T17:39:06Z</Time>
+                    <Position>
+                        <LatitudeDegrees>46.850555</LatitudeDegrees>
+                        <LongitudeDegrees>-96.779522</LongitudeDegrees>
+                    </Position>
+                    <AltitudeMeters>0</AltitudeMeters>
+                    <DistanceMeters>5.84000</DistanceMeters>
+                    <SensorState>600</SensorState>
+                </Trackpoint>
+                <Trackpoint>
+                    <Time>2012-04-18T17:39:09Z</Time>
+                    <Position>
+                        <LatitudeDegrees>46.850523</LatitudeDegrees>
+                        <LongitudeDegrees>-96.77959</LongitudeDegrees>
+                    </Position>
+                    <AltitudeMeters>0</AltitudeMeters>
+                    <DistanceMeters>12.06000</DistanceMeters>
+                    <SensorState>600</SensorState>
+                </Trackpoint>
+                </Track>
+            </Lap>
+        </Activity>
+    </Activities>
+</TrainingCenterDatabase>
